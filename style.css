@@ -25,7 +25,9 @@ header{
     place-items:center;
     background-color: #063970;
 }
-
+.overlay{
+    background-color: rgba(0, 0, 0, 0.3);
+}
 .memory{
 cursor: pointer;
 border: 3px solid #063970;
